@@ -1,0 +1,6 @@
+**/__pycache__
+.vscode
+.mypy_cache
+**/.ipynb_checkpoints
+
+Segmentation/carvana-image-masking-challenge
